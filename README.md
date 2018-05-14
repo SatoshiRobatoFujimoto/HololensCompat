@@ -5,7 +5,7 @@ Hololens Tcp socket and Threads Compat
  	TcpClientHandler.cs
   
 ## Threads Compat
-  ThreadCompat.cs
-  
+ 	ThreadCompat.cs
+
 ## Placing GameObject relative to camera by Degrees and Distance
-  camera.cs
+ 	camera.cs
